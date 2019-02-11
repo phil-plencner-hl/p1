@@ -8,4 +8,3 @@
 * Quotes resourced from:
   * <https://en.wikiquote.org>
   * Personal copy of *The Real Frank Zappa Book* by Frank Zappa
-## Notes for instructor
