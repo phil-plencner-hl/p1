@@ -1,0 +1,16 @@
+#body-container {
+    width: 100%;
+    text-align: center;
+}
+
+.div-inner {
+    display: inline-block;
+}
+
+img{
+    border: 0px;
+}
+
+#quote-container p {
+    font-style: italic;
+}
